@@ -1,5 +1,7 @@
 # ID Tech Artificial Intelligence with NVIDIA Final Project
-My project uses a retrained model and detectnet to detect faces within the view of a camera and block them out.
+My project uses a retrained model and detectnet to detect faces within the view of a camera and block them out. <br />
+![unnamed](https://user-images.githubusercontent.com/108949718/180885312-a1f92f94-042d-4141-80e9-acdef5307052.jpg) <br />
+The idea behind this project is that it could help vloggers or other people on the internet that want to protect some of their privacy.
 
 ## The Algorithm
 The first two lines are there to import the needed modules for the code. <br />
